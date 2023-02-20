@@ -29,6 +29,11 @@ in process..
 * generic views
 * create some automated tests
 
+### day_3
+
+* add static files (css, img)
+* override admin template
+
 ## Finally
 
 typing..
