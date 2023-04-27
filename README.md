@@ -1,39 +1,13 @@
 # WebApp
 
-## Plan
+## Участники
 
-in process..
+## Описание приложения 
 
-* website + django + mysql
-* profile-users managment
-* upload/download BLOB (.exe) files
 
-## History
+## Видеооброз приложения
 
-### day_1
+## Документация
 
-* setup Python environment
-* django + wsgi/asgi protocole
-* migrations
-* django field
-* database connect | MySQL | schema
-* add models
-* add admin user
-* URLconfs, namespaces
-* tampletes | html
-* django shortcuts
 
-### day_2
 
-* fix race condition with database
-* generic views
-* create some automated tests
-
-### day_3
-
-* add static files (css, img)
-* override admin template
-
-## Finally
-
-typing..
