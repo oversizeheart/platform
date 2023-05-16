@@ -19,7 +19,7 @@
 Мы рады предложить нашу онлайн-платформу для продажи и покупки программ каждому, кто заинтересован в разработке и использовании ПО. Мы убеждены, что наша платформа станет местом бурного развития IT-сферы и поможет многим создателям программ получить заслуженную прибыль.
 # Сервесы для работы 
 [Miro](https://miro.com/welcomeonboard/Z0pORHI5S0JTVXJDVGxuM0FnWjRVdzA2Y29OQzhvR1F5VFUyVk5PRHJ4ZjFGVFJDcXhSczlTV2Y4Z0RsTjFTSHwzMDc0NDU3MzY1NjMwMDczMTI1fDI=?share_link_id=775760437659)
-####[Trello](https://trello.com/invite/b/oJFJpPDc/ATTIc6d67c0a8675fa027fdaa8bc59354852746A3A41/kanban-доска)
+#### [Trello](https://trello.com/invite/b/oJFJpPDc/ATTIc6d67c0a8675fa027fdaa8bc59354852746A3A41/kanban-доска)
  
 # Видеооброз приложения
 
